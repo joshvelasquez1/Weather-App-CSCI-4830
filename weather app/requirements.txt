@@ -1,4 +1,0 @@
-streamlit
-django
-requests
-pandas
